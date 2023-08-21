@@ -1,0 +1,11 @@
+header{
+    width: 100%;
+    min-height: 10vh;
+    background-color: var(--lgt_bg);
+    display: grid;
+    place-items: center;
+}
+header .header_title {
+    color:var(--drk_bg);
+    font-weight: bold;
+}
