@@ -1,0 +1,2 @@
+@import url(https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap);:root{--drk_bg:#222831;--lgt_bg:#eee}*{box-sizing:border-box;font-family:Poppins,sans-serif;margin:0;padding:0}body{background-color:#222831;background-color:var(--drk_bg);min-width:300px}header{background-color:var(--lgt_bg);display:grid;min-height:10vh;place-items:center;width:100%}header .header_title{color:var(--drk_bg);font-weight:700}
+/*# sourceMappingURL=main.f240b73c.css.map*/

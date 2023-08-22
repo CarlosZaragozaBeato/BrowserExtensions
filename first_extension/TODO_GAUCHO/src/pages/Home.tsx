@@ -2,7 +2,13 @@
 const Home = ()=>{
 
     return (
-        <h1>HOME</h1>
+        <>
+            <div className="bookmark_section">
+                
+
+            </div>
+        
+        </>
     );
 }
 export default Home;
